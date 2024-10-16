@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! :D
 
+My name is Esteban, I am a third-year student of Astrophysics with a minor in Data
+Science at the Universidad de Santiago de Chile. I am interested in studying Protoplanetary Disks and theories of Planet Formation 🪐.
+I like science, literature, philosophy, and music. (and programming ;D)
 <!--
 **estebansanchezmunoz/estebansanchezmunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
