@@ -1,4 +1,4 @@
-## Hi there! :D
+## Hi there! ☕
 
 My name is Esteban, I am a third-year student of Astrophysics with a minor in Data
 Science at the Universidad de Santiago de Chile. I am interested in studying Protoplanetary Disks and theories of Planet Formation 🪐.
